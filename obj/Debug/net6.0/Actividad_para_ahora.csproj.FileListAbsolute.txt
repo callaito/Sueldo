@@ -1,0 +1,28 @@
+C:\Users\ELMZ\Desktop\C# ippfm\Actividad_para_ahora\bin\Debug\net6.0\Actividad_para_ahora.exe
+C:\Users\ELMZ\Desktop\C# ippfm\Actividad_para_ahora\bin\Debug\net6.0\Actividad_para_ahora.deps.json
+C:\Users\ELMZ\Desktop\C# ippfm\Actividad_para_ahora\bin\Debug\net6.0\Actividad_para_ahora.runtimeconfig.json
+C:\Users\ELMZ\Desktop\C# ippfm\Actividad_para_ahora\bin\Debug\net6.0\Actividad_para_ahora.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Actividad_para_ahora\bin\Debug\net6.0\Actividad_para_ahora.pdb
+C:\Users\ELMZ\Desktop\C# ippfm\Actividad_para_ahora\obj\Debug\net6.0\Actividad_para_ahora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELMZ\Desktop\C# ippfm\Actividad_para_ahora\obj\Debug\net6.0\Actividad_para_ahora.AssemblyInfoInputs.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Actividad_para_ahora\obj\Debug\net6.0\Actividad_para_ahora.AssemblyInfo.cs
+C:\Users\ELMZ\Desktop\C# ippfm\Actividad_para_ahora\obj\Debug\net6.0\Actividad_para_ahora.csproj.CoreCompileInputs.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Actividad_para_ahora\obj\Debug\net6.0\Actividad_para_ahora.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Actividad_para_ahora\obj\Debug\net6.0\refint\Actividad_para_ahora.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Actividad_para_ahora\obj\Debug\net6.0\Actividad_para_ahora.pdb
+C:\Users\ELMZ\Desktop\C# ippfm\Actividad_para_ahora\obj\Debug\net6.0\Actividad_para_ahora.genruntimeconfig.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Actividad_para_ahora\obj\Debug\net6.0\ref\Actividad_para_ahora.dll
+C:\Users\pc\Documents\Trabajos de gama\NUEVOS\Actividad_para_ahora\bin\Debug\net6.0\Actividad_para_ahora.exe
+C:\Users\pc\Documents\Trabajos de gama\NUEVOS\Actividad_para_ahora\bin\Debug\net6.0\Actividad_para_ahora.deps.json
+C:\Users\pc\Documents\Trabajos de gama\NUEVOS\Actividad_para_ahora\bin\Debug\net6.0\Actividad_para_ahora.runtimeconfig.json
+C:\Users\pc\Documents\Trabajos de gama\NUEVOS\Actividad_para_ahora\bin\Debug\net6.0\Actividad_para_ahora.dll
+C:\Users\pc\Documents\Trabajos de gama\NUEVOS\Actividad_para_ahora\bin\Debug\net6.0\Actividad_para_ahora.pdb
+C:\Users\pc\Documents\Trabajos de gama\NUEVOS\Actividad_para_ahora\obj\Debug\net6.0\Actividad_para_ahora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Trabajos de gama\NUEVOS\Actividad_para_ahora\obj\Debug\net6.0\Actividad_para_ahora.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Trabajos de gama\NUEVOS\Actividad_para_ahora\obj\Debug\net6.0\Actividad_para_ahora.AssemblyInfo.cs
+C:\Users\pc\Documents\Trabajos de gama\NUEVOS\Actividad_para_ahora\obj\Debug\net6.0\Actividad_para_ahora.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Trabajos de gama\NUEVOS\Actividad_para_ahora\obj\Debug\net6.0\Actividad_para_ahora.dll
+C:\Users\pc\Documents\Trabajos de gama\NUEVOS\Actividad_para_ahora\obj\Debug\net6.0\refint\Actividad_para_ahora.dll
+C:\Users\pc\Documents\Trabajos de gama\NUEVOS\Actividad_para_ahora\obj\Debug\net6.0\Actividad_para_ahora.pdb
+C:\Users\pc\Documents\Trabajos de gama\NUEVOS\Actividad_para_ahora\obj\Debug\net6.0\Actividad_para_ahora.genruntimeconfig.cache
+C:\Users\pc\Documents\Trabajos de gama\NUEVOS\Actividad_para_ahora\obj\Debug\net6.0\ref\Actividad_para_ahora.dll
